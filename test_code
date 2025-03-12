@@ -21,7 +21,7 @@
         bisonImg.src = "https://example.com/bison.png"; // Replace with actual image URL
         
         const neuronImg = new Image();
-        neuronImg.src = "https://example.com/neuron.png"; // Replace with actual image URL
+        neuronImg.src = "https://github.com/gbyron96/bison-runner/blob/main/brain.svg"; // Replace with actual image URL
         
         const brainImg = new Image();
         brainImg.src = "https://example.com/brain.png"; // Replace with actual image URL
