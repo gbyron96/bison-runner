@@ -18,13 +18,13 @@
         
         // Load images
         const bisonImg = new Image();
-        bisonImg.src = "https://example.com/bison.png"; // Replace with actual image URL
+        bisonImg.src = "https://github.com/gbyron96/bison-runner/blob/main/bison.svg"; // Replace with actual image URL
         
         const neuronImg = new Image();
         neuronImg.src = "https://github.com/gbyron96/bison-runner/blob/main/brain.svg"; // Replace with actual image URL
         
         const brainImg = new Image();
-        brainImg.src = "https://example.com/brain.png"; // Replace with actual image URL
+        brainImg.src = "https://github.com/gbyron96/bison-runner/blob/main/bison.svg"; // Replace with actual image URL
         
         let bison = { x: 50, y: 200, width: 50, height: 50, velocityY: 0, gravity: 1.5, jumping: false };
         let obstacles = [];
